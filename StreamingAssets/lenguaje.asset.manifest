@@ -1,0 +1,144 @@
+ManifestFileVersion: 0
+CRC: 3220565326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ba4ccaa0424bbb15ff824cfddd6e87c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ddeeb3cb0b42c9a8df67181163a6a32b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/spritesResources/Textures/05LG_XX01/05LG_XX01 Background.jpg
+- Assets/Resources/spritesResources/Textures/04LG_XX01/04LG_XX01@Tooltip5.png
+- Assets/Resources/spritesResources/Textures/01LG_XX01/01LG_XX01@Texture.png
+- Assets/Resources/spritesResources/Textures/07LG_XX01/TEXTURE-07.png
+- Assets/Resources/spritesResources/Textures/08LG_XX01/08LG_XX01@Background.png
+- Assets/Resources/spritesResources/Textures/07LG_XX01/R-01.png
+- Assets/Resources/spritesResources/Textures/09LG_XX01/1_7.png
+- Assets/Resources/spritesResources/Textures/02LG_XX01/Texture 3.png
+- Assets/Resources/spritesResources/Textures/05LG_XX01/Completa1.png
+- Assets/Resources/spritesResources/Textures/07LG_XX01/07LG_XX01 contexto.png
+- Assets/Resources/spritesResources/Textures/00LG_XX01/00LG_XX01@Preview.PNG
+- Assets/Resources/spritesResources/Textures/06LG_XX01/06LG_XX01@Preview.PNG
+- Assets/Resources/spritesResources/Textures/07LG_XX01/TEXTURE-02.png
+- Assets/Resources/spritesResources/Textures/05LG_XX01/5LG Tooltips - INSTRUCCIONES-Ronada
+  01.png
+- Assets/Resources/spritesResources/Textures/05LG_XX01/New Images/RONDA-03.png
+- Assets/Resources/spritesResources/Textures/02LG_XX01/02LG_R0.png
+- Assets/Resources/spritesResources/Textures/01LG_XX01/01LG_XX01@Preview.PNG
+- Assets/Resources/spritesResources/Textures/01LG_XX01/01LG_XX01@Texture5.png
+- Assets/Resources/spritesResources/Textures/07LG_XX01/TOOLTIPS 1.png
+- Assets/Resources/spritesResources/Textures/07LG_XX01/TOOLTIPS 3.png
+- Assets/Resources/spritesResources/Textures/03LG_XX01/03LG_XX01-08.png
+- Assets/Resources/spritesResources/Textures/03LG_XX01/03LG_XX01-10.png
+- Assets/Resources/spritesResources/Textures/05LG_XX01/05LG_XX01 contexto.jpg
+- Assets/Resources/spritesResources/Textures/07LG_XX01/07LG_XX01 background.png
+- Assets/Resources/spritesResources/Textures/00LG_XX01/00LG_XX01@Texture.png
+- Assets/Resources/spritesResources/Textures/07LG_XX01/07LG_XX01 preview.png
+- Assets/Resources/spritesResources/Textures/09LG_XX01/1_9.png
+- Assets/Resources/spritesResources/Textures/09LG_XX01/10.png
+- Assets/Resources/spritesResources/Textures/07LG_XX01/TOOLTIPS 5.png
+- Assets/Resources/spritesResources/Textures/05LG_XX01/5LG Tooltips - INSTRUCCIONES-
+  Ronda 1.1.png
+- Assets/Resources/spritesResources/Textures/07LG_XX01/TEXTURE-03.png
+- Assets/Resources/spritesResources/Textures/07LG_XX01/TOOLTIPS 8.png
+- Assets/Resources/spritesResources/Textures/03LG_XX01/03LG_XX01 contexto.jpg
+- Assets/Resources/spritesResources/Textures/02LG_XX01/02LG_XX01 Preview.jpg
+- Assets/Resources/spritesResources/Textures/05LG_XX01/5LG Tooltips - INSTRUCCIONES
+  RONDAS.png
+- Assets/Resources/spritesResources/Textures/03LG_XX01/RondaCero-03LG_XX01.png
+- Assets/Resources/spritesResources/Textures/05LG_XX01/Contexto Tooltips.png
+- Assets/Resources/spritesResources/Textures/06LG_XX01/06LG_XX01@Background.png
+- Assets/Resources/spritesResources/Textures/10LG_XX01/ronda_cero.PNG
+- Assets/Resources/spritesResources/Textures/07LG_XX01/TOOLTIPS 9.png
+- Assets/Resources/Audios/06LG_XX01/5.mp3
+- Assets/Resources/spritesResources/Textures/04LG_XX01/04LG_XX01@Texture6.png
+- Assets/Resources/spritesResources/Textures/02LG_XX01/Texture 2.png
+- Assets/Resources/spritesResources/Textures/09LG_XX01/tooltip contexto.png
+- Assets/Resources/spritesResources/Textures/08LG_XX01/08LG_XX01@Texture.png
+- Assets/Resources/spritesResources/Textures/08LG_XX01/08LG_XX01@Texture2.png
+- Assets/Resources/spritesResources/Textures/04LG_XX01/04LG_XX01@Texture5.png
+- Assets/Resources/spritesResources/Textures/09LG_XX01/botones nuevos.png
+- Assets/Resources/spritesResources/Textures/06LG_XX01/06LG_XX01@Contexto.png
+- Assets/Resources/spritesResources/Textures/05LG_XX01/RONDA-02.png
+- Assets/Resources/spritesResources/Textures/10LG_XX01/1_6.png
+- Assets/Resources/spritesResources/Textures/05LG_XX01/Completa2.png
+- Assets/Resources/spritesResources/Textures/03LG_XX01/Textura 3.png
+- Assets/Resources/spritesResources/Textures/04LG_XX01/04LG_XX01@Tooltip1.png
+- Assets/Resources/spritesResources/Textures/04LG_XX01/04LG_XX01@Backgraound.jpg
+- Assets/Resources/spritesResources/Textures/07LG_XX01/Tooltips contexto.png
+- Assets/Resources/spritesResources/Textures/06LG_XX01/06LG_XX01@Texture2.png
+- Assets/Resources/spritesResources/Textures/03LG_XX01/Textura 4.png
+- Assets/Resources/spritesResources/Textures/09LG_XX01/1_6.png
+- Assets/Resources/spritesResources/Textures/05LG_XX01/05LG_XX01 Preview.jpg
+- Assets/Resources/spritesResources/Textures/04LG_XX01/04LG_XX01@Texture1.png
+- Assets/Resources/spritesResources/Textures/03LG_XX01/03LG_XX01-07.png
+- Assets/Resources/spritesResources/Textures/04LG_XX01/04LG_XX01@Texture4.png
+- Assets/Resources/spritesResources/Textures/07LG_XX01/TOOLTIPS 6.png
+- Assets/Resources/spritesResources/Textures/03LG_XX01/TEXTURA 3v2.png
+- Assets/Resources/spritesResources/Textures/00LG_XX01/00LG_XX01@Contexto.jpg
+- Assets/Resources/spritesResources/Textures/02LG_XX01/02LG_XX01 background.jpg
+- Assets/Resources/spritesResources/Textures/09LG_XX01/09LG_XX01 contexto.jpg
+- Assets/Resources/spritesResources/Textures/04LG_XX01/04LG_XX01@Tooltip2.png
+- Assets/Resources/spritesResources/Textures/09LG_XX01/09LG_XX01 Backgorundjpg.jpg
+- Assets/Resources/spritesResources/Textures/05LG_XX01/New Images/RONDA-04.png
+- Assets/Resources/spritesResources/Textures/07LG_XX01/TOOLTIPS 7.png
+- Assets/Resources/spritesResources/Textures/03LG_XX01/Textura 1.png
+- Assets/Resources/spritesResources/Textures/07LG_XX01/07LG_R0.png
+- Assets/Resources/spritesResources/Textures/04LG_XX01/04LG_XX01@Tooltip3.png
+- Assets/Resources/spritesResources/Textures/10LG_XX01/1_8.png
+- Assets/Resources/spritesResources/Textures/02LG_XX01/02LG_XX01 contexto.jpg
+- Assets/Resources/spritesResources/Textures/09LG_XX01/Ronda0_09LG.png
+- Assets/Resources/spritesResources/Textures/01LG_XX01/01LG_XX01@Texture2.png
+- Assets/Resources/spritesResources/Textures/10LG_XX01/10LG_XX01 contexto.jpg
+- Assets/Resources/spritesResources/Textures/10LG_XX01/10LG_XX01_Preview.jpg
+- Assets/Resources/Audios/06LG_XX01/3.mp3
+- Assets/Resources/spritesResources/Textures/03LG_XX01/TEXTURA 1-06.png
+- Assets/Resources/spritesResources/Textures/05LG_XX01/New Images/RONDA-02.png
+- Assets/Resources/spritesResources/Textures/03LG_XX01/03LG_XX01 Background.jpg
+- Assets/Resources/Audios/06LG_XX01/1.mp3
+- Assets/Resources/spritesResources/Textures/04LG_XX01/04LG_XX01@Contexto.jpg
+- Assets/Resources/spritesResources/Textures/08LG_XX01/08LG_XX01@Preview.PNG
+- Assets/Resources/spritesResources/Textures/05LG_XX01/05LG_R0.png
+- Assets/Resources/spritesResources/Textures/00LG_XX01/00LG_XX01@Texture2.png
+- Assets/Resources/spritesResources/Textures/01LG_XX01/01LG_XX01@Texture3.png
+- Assets/Resources/spritesResources/Textures/02LG_XX01/Texture.png
+- Assets/Resources/spritesResources/Textures/10LG_XX01/10LG_XX01 background.jpg
+- Assets/Resources/spritesResources/Textures/00LG_XX01/00LG_XX01@Texture3.png
+- Assets/Resources/spritesResources/Textures/04LG_XX01/04LG_XX01@Texture2.png
+- Assets/Resources/spritesResources/Textures/06LG_XX01/06LG_XX01@Texture3.png
+- Assets/Resources/spritesResources/Textures/05LG_XX01/Completa4.png
+- Assets/Resources/spritesResources/Textures/07LG_XX01/TEXTURE-01.png
+- Assets/Resources/spritesResources/Textures/04LG_XX01/04LG_XX01@Texture3.png
+- Assets/Resources/spritesResources/Textures/05LG_XX01/RONDA-01.png
+- Assets/Resources/spritesResources/Textures/09LG_XX01/1_8.png
+- Assets/Resources/spritesResources/Textures/03LG_XX01/Textura 2.png
+- Assets/Resources/spritesResources/Textures/07LG_XX01/TOOLTIPS 4.png
+- Assets/Resources/spritesResources/Textures/07LG_XX01/TOOLTIPS 2.png
+- Assets/Resources/spritesResources/Textures/00LG_XX01/00LG_XX01@Background.jpg
+- Assets/Resources/Audios/06LG_XX01/2.mp3
+- Assets/Resources/spritesResources/Textures/00LG_XX01/00LG_XX01@TextureContexto.png
+- Assets/Resources/spritesResources/Textures/08LG_XX01/08LG_XX01@Contexto.png
+- Assets/Resources/spritesResources/Textures/06LG_XX01/06LG_XX01@Texture.png
+- Assets/Resources/spritesResources/Textures/05LG_XX01/RONDA-03.png
+- Assets/Resources/spritesResources/Textures/01LG_XX01/01LG_XX01@Texture4.png
+- Assets/Resources/spritesResources/Textures/01LG_XX01/01LG_XX01@Contexto.jpg
+- Assets/Resources/spritesResources/Textures/03LG_XX01/Botones nuevos.png
+- Assets/Resources/spritesResources/Textures/01LG_XX01/01LG_XX01@Background.jpg
+- Assets/Resources/spritesResources/Textures/10LG_XX01/1_7.png
+- Assets/Resources/spritesResources/Textures/05LG_XX01/RONDA-04.png
+- Assets/Resources/spritesResources/Textures/05LG_XX01/New Images/RONDA-01.png
+- Assets/Resources/spritesResources/Textures/04LG_XX01/04LG_XX01@Tooltip4.png
+- Assets/Resources/Audios/06LG_XX01/4.mp3
+- Assets/Resources/spritesResources/Textures/05LG_XX01/Completa3.png
+- Assets/Resources/spritesResources/Textures/03LG_XX01/TEXTURA CONTEXTO.png
+Dependencies: []

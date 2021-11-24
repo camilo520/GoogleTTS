@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 95022804
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: minigames.asset
+      Dependencies: {}
+    Info_1:
+      Name: ingles.asset
+      Dependencies: {}
+    Info_2:
+      Name: naturales.asset
+      Dependencies:
+        Dependency_0: ingles.asset
+    Info_3:
+      Name: matematica.asset
+      Dependencies: {}
+    Info_4:
+      Name: sociales.asset
+      Dependencies:
+        Dependency_0: naturales.asset
+    Info_5:
+      Name: lenguaje.asset
+      Dependencies: {}
+    Info_6:
+      Name: avatar.asset
+      Dependencies: {}

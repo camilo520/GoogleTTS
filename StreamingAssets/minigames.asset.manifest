@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3029124293
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cba371008591626ccaa145c1f873b0bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ddeeb3cb0b42c9a8df67181163a6a32b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/audioResources/ToolsAudios/sonidoMapa.mp3
+- Assets/Resources/audioResources/ToolsAudios/CorrectNotification.wav
+- Assets/Resources/audioResources/ToolsAudios/sonidoLenguaSenas.mp3
+- Assets/Resources/audioResources/ToolsAudios/Catch.wav
+- Assets/Resources/spritesResources/Textures/FirstMinigame/Preview-2.png
+- Assets/Resources/spritesResources/UI/Ronda0@Texture2.png
+- Assets/Resources/spritesResources/UI/RondaCero@Texture.png
+- Assets/Resources/audioResources/ToolsAudios/Boton.wav
+- Assets/Resources/audioResources/ToolsAudios/Drop.wav
+- Assets/Resources/audioResources/ToolsAudios/errorSoundFx.wav
+- Assets/Resources/spritesResources/Textures/FirstMinigame/G00IN_SA01@Texture.png
+- Assets/Resources/audioResources/ToolsAudios/sonidoAvatarCasa.mp3
+- Assets/Resources/spritesResources/UI/UI@Texture-0.png
+- Assets/Resources/audioResources/ToolsAudios/sonidoInteligenciasM.mp3
+- Assets/Resources/audioResources/ToolsAudios/correctSoundFx.mp3
+- Assets/Resources/spritesResources/UI/BotonesAccesibilidad.png
+- Assets/Resources/audioResources/ToolsAudios/sonidoBienHecho.mp3
+- "Assets/Resources/spritesResources/UI/Interfaz-Inclusi\xF3n_Valle_V1-Acceso-a-minijuegos.png"
+- Assets/Resources/audioResources/ToolsAudios/sonidoIntentaloDeNuevo.mp3
+- Assets/Resources/spritesResources/UI/Ronda0@Texture.png
+- Assets/Resources/spritesResources/Textures/FirstMinigame/Preview-10.png
+Dependencies: []

@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 706553050
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 694993489f24f77fa57f983288b944d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/spritesResources/Textures/00MT_XX01/00MT_XX01@Texture.png
+- Assets/Resources/spritesResources/Textures/01MT_XX01/01MT_XX01 Preview.jpg
+- Assets/Resources/spritesResources/Textures/05MT_XX01/05MT_XX01@Contexto.png
+- Assets/Resources/spritesResources/Textures/00MT_XX01/00MT_XX01@Background.jpg
+- Assets/Resources/spritesResources/Textures/00MT_XX01/00MT_XX01@Texture1.png
+- Assets/Resources/spritesResources/Textures/02MT_XX01/contexto.png
+- Assets/Resources/spritesResources/Textures/11MT_XX01/11MT_XX01_B.png
+- Assets/Resources/spritesResources/Textures/03MT_XX01/03MT_XX01_B.png
+- Assets/Resources/spritesResources/Textures/05MT_XX01/05MT_XX01@Preview2.png
+- Assets/Resources/spritesResources/Textures/03MT_XX01/03MT_XX01-10.png
+- Assets/Resources/spritesResources/Textures/01MT_XX01/Cero explicacion.png
+- Assets/Resources/spritesResources/Textures/11MT_XX01/11MT_XX01_D.png
+- Assets/Resources/spritesResources/Textures/00MT_XX01/00MT_XX01@Texture2.png
+- Assets/Resources/spritesResources/Textures/01MT_XX01/01MT_R0.png
+- Assets/Resources/spritesResources/Textures/11MT_XX01/ronda_cero.PNG
+- Assets/Resources/spritesResources/Textures/02MT_XX01/ronda_cero_preview.PNG
+- Assets/Resources/spritesResources/Textures/03MT_XX01/03MT_XX01T8.png
+- Assets/Resources/spritesResources/Textures/11MT_XX01/11MT_XX01 preview.jpg
+- Assets/Resources/spritesResources/Textures/01MT_XX01/Mesa de trabajo 90102.png
+- Assets/Resources/spritesResources/Textures/01MT_XX01/01MT_XX01 contexto.jpg
+- Assets/Resources/spritesResources/Textures/03MT_XX01/03MT_XX01_C.png
+- Assets/Resources/spritesResources/Textures/01MT_XX01/01MT_XX01 background.jpg
+- Assets/Resources/spritesResources/Textures/02MT_XX01/02MT_XX01_Preview.jpg
+- Assets/Resources/spritesResources/Textures/11MT_XX01/11MT_XX01_A 1.png
+- Assets/Resources/spritesResources/Textures/00MT_XX01/00MT_XX01@Texture3.png
+- Assets/Resources/spritesResources/Textures/11MT_XX01/11MT_XX01_C.png
+- Assets/Resources/spritesResources/Textures/00MT_XX01/00MT_XX01@Contexto.jpg
+- Assets/Resources/spritesResources/Textures/02MT_XX01/02MT_XX01-08.png
+- Assets/Resources/spritesResources/Textures/02MT_XX01/02MT_XX01_background.jpg
+- Assets/Resources/spritesResources/Textures/00MT_XX01/00MT_XX01@Preview.PNG
+- Assets/Resources/spritesResources/Textures/11MT_XX01/11MT_XX01_E.png
+- Assets/Resources/spritesResources/Textures/11MT_XX01/11MT_XX01_G.png
+- Assets/Resources/spritesResources/Textures/11MT_XX01/11MT_XX01 background.jpg
+- Assets/Resources/spritesResources/Textures/11MT_XX01/11MT_XX01 contexto.jpg
+- Assets/Resources/spritesResources/Textures/05MT_XX01/05MT_XX01@Texture.png
+- Assets/Resources/spritesResources/Textures/02MT_XX01/textura.png
+- Assets/Resources/spritesResources/Textures/11MT_XX01/11MT_XX01_A.png
+- Assets/Resources/spritesResources/Textures/03MT_XX01/03MT_Ronda0.png
+- Assets/Resources/spritesResources/Textures/03MT_XX01/03MT_XX01 background.png
+- Assets/Resources/spritesResources/Textures/11MT_XX01/ronda_cero2.PNG
+- Assets/Resources/spritesResources/Textures/05MT_XX01/05MT_XX01@Texture2.png
+- Assets/Resources/spritesResources/Textures/11MT_XX01/11MT_XX01_F.png
+- Assets/Resources/spritesResources/Textures/05MT_XX01/05MT_XX01@Background.png
+- Assets/Resources/spritesResources/Textures/05MT_XX01/05MT_XX01@Preview.png
+- Assets/Resources/spritesResources/Textures/03MT_XX01/03MT_XX01Contexto.png
+- Assets/Resources/spritesResources/Textures/03MT_XX01/03MT_XX01_A.png
+- Assets/Resources/spritesResources/Textures/02MT_XX01/02MT_XX01_contexto.png
+- Assets/Resources/spritesResources/Textures/01MT_XX01/Mesa de trabajo 90102 (2).png
+Dependencies: []

@@ -1,0 +1,255 @@
+ManifestFileVersion: 0
+CRC: 1953978726
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0804b0e0318fc29840d41da8431e344
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ddeeb3cb0b42c9a8df67181163a6a32b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/audioResources/00ING_XX01/cebra.mp3
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Ronda 2.png
+- Assets/Resources/audioResources/00ING_XX01/gorila.mp3
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Tips/Tooltips R5.png
+- Assets/Resources/audioResources/01IN_XX01/01IN_R4En.mp3
+- Assets/Resources/audioResources/00ING_XX01/leon.mp3
+- Assets/Resources/Minigames/Textures/02IN_XX01/02IN_XX01 contexto.jpg
+- Assets/Resources/audioResources/InglesBody/Mouth.wav
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Ronda 1.png
+- Assets/Resources/audioResources/04IN_XX01/carta5.8.mp3
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Tips/Vocabulario R3-4.png
+- Assets/Resources/audioResources/03IN_XX01/Ronda 2/teacher.wav
+- Assets/Resources/audioResources/04IN_XX01/carta5.1.mp3
+- Assets/Resources/audioResources/04IN_XX01/ronda4.mp3
+- Assets/Resources/audioResources/07IN_XX01/ronda4P.mp3
+- Assets/Resources/audioResources/InglesBody/neck.wav
+- Assets/Resources/spritesResources/Textures/03IN_XX01/03IN_XX01_B.png
+- Assets/Resources/spritesResources/Textures/07IN_XX01/07IN_XX01_B.png
+- Assets/Resources/audioResources/05IN_XX01/05IN_R5Re4.mp3
+- Assets/Resources/audioResources/01IN_XX01/01IN_R6En.mp3
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Tips/06IN_XX01 tooltips-09.png
+- Assets/Resources/audioResources/04IN_XX01/carta3.5.mp3
+- Assets/Resources/spritesResources/Textures/05IN_XX01/05IN_texture2.png
+- Assets/Resources/spritesResources/Textures/05IN_XX01/05IN_Ronda0.png
+- Assets/Resources/audioResources/03IN_XX01/Ronda 1/Police Station.wav
+- Assets/Resources/audioResources/05IN_XX01/05IN_R5Re6.mp3
+- Assets/Resources/audioResources/03IN_XX01/Ronda 2/Hall.wav
+- Assets/Resources/audioResources/InglesBody/Leg.wav
+- Assets/Resources/audioResources/03IN_XX01/Ronda 3/Farmers.wav
+- Assets/Resources/spritesResources/Textures/04IN_XX01/04IN_XX01_background.jpg
+- Assets/Resources/audioResources/03IN_XX01/Ronda 3/Port.wav
+- Assets/Resources/spritesResources/Textures/03IN_XX01/03IN_XX01_D.png
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Ronda 3.png
+- Assets/Resources/spritesResources/Textures/00ING_XX01/textura.png
+- Assets/Resources/audioResources/04IN_XX01/carta5.2.mp3
+- Assets/Resources/audioResources/03IN_XX01/Ronda 4/Hall.wav
+- Assets/Resources/audioResources/01IN_XX01/01IN_R3En.mp3
+- Assets/Resources/audioResources/03IN_XX01/Ronda 1/Fire.wav
+- Assets/Resources/spritesResources/Textures/05IN_XX01/05IN_texture1.png
+- Assets/Resources/audioResources/04IN_XX01/carta4.5.mp3
+- Assets/Resources/audioResources/07IN_XX01/ronda2O.mp3
+- Assets/Resources/audioResources/InglesBody/Head.wav
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Ronda 5.png
+- Assets/Resources/audioResources/01IN_XX01/01IN_Re10.mp3
+- Assets/Resources/spritesResources/Textures/07IN_XX01/07IN_XX01 Preview.jpg
+- Assets/Resources/audioResources/07IN_XX01/ronda4O.mp3
+- Assets/Resources/spritesResources/Textures/00ING_XX01/Texture 1.png
+- Assets/Resources/audioResources/05IN_XX01/05IN_R5Re1.mp3
+- Assets/Resources/audioResources/05IN_XX01/05IN_R2Re1.mp3
+- Assets/Resources/audioResources/04IN_XX01/carta4.1.mp3
+- Assets/Resources/spritesResources/Textures/03IN_XX01/03IN_Tool.png
+- Assets/Resources/audioResources/00ING_XX01/caracol.mp3
+- Assets/Resources/spritesResources/Textures/01IN_XX01/01INTextura4.png
+- Assets/Resources/audioResources/InglesBody/Face.wav
+- Assets/Resources/Minigames/Textures/02IN_XX01/02IN_XX01 background.jpg
+- Assets/Resources/spritesResources/Textures/07IN_XX01/07IN_XX01_A.png
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Tips/Recomendaciones R5.png
+- Assets/Resources/spritesResources/Textures/06IN_XX01/06IN_XX01 Background.jpg
+- Assets/Resources/audioResources/InglesBody/ankle.wav
+- Assets/Resources/audioResources/04IN_XX01/carta3.6.mp3
+- Assets/Resources/audioResources/05IN_XX01/05IN_R2En.mp3
+- Assets/Resources/spritesResources/Textures/01IN_XX01/01IN_XX01Contexto.jpg
+- Assets/Resources/audioResources/05IN_XX01/05IN_R4Re3.mp3
+- Assets/Resources/audioResources/04IN_XX01/carta3.1.mp3
+- Assets/Resources/audioResources/03IN_XX01/Ronda 4/Factory.wav
+- Assets/Resources/audioResources/05IN_XX01/05IN_R2Re2.mp3
+- Assets/Resources/spritesResources/Textures/05IN_XX01/05IN_textureN.png
+- Assets/Resources/Minigames/Textures/02IN_XX01/Mesa de trabajo 23.png
+- Assets/Resources/audioResources/04IN_XX01/ronda3.mp3
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Tips/Tooltips R2.png
+- Assets/Resources/audioResources/03IN_XX01/Ronda 1/School.wav
+- Assets/Resources/audioResources/InglesBody/chest.wav
+- Assets/Resources/audioResources/00ING_XX01/hipopotamo.mp3
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Ronda 4.png
+- Assets/Resources/audioResources/04IN_XX01/carta4.2.mp3
+- Assets/Resources/audioResources/01IN_XX01/01IN_Re3.mp3
+- Assets/Resources/audioResources/01IN_XX01/01IN_Re4.mp3
+- Assets/Resources/audioResources/07IN_XX01/ronda2P.mp3
+- Assets/Resources/audioResources/00ING_XX01/mariposa.mp3
+- Assets/Resources/audioResources/04IN_XX01/carta4.3.mp3
+- Assets/Resources/audioResources/05IN_XX01/05IN_R1Re1.mp3
+- Assets/Resources/audioResources/01IN_XX01/01IN_Re5.mp3
+- Assets/Resources/spritesResources/Textures/00ING_XX01/00IN_XX01_contexto.jpg
+- Assets/Resources/audioResources/03IN_XX01/Ronda 4/Police Station.wav
+- Assets/Resources/audioResources/01IN_XX01/01IN_Re1.mp3
+- Assets/Resources/audioResources/00ING_XX01/caballo.mp3
+- Assets/Resources/spritesResources/Textures/07IN_XX01/07IN_XX01 Background.jpg
+- Assets/Resources/audioResources/01IN_XX01/01IN_Re6.mp3
+- Assets/Resources/spritesResources/Textures/01IN_XX01/01INRonda0.png
+- Assets/Resources/audioResources/04IN_XX01/carta1.2.mp3
+- Assets/Resources/spritesResources/Textures/04IN_XX01/ronda_cero_preview1.PNG
+- Assets/Resources/audioResources/01IN_XX01/01IN_R5En.mp3
+- Assets/Resources/audioResources/05IN_XX01/05IN_R2Re3.mp3
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Tips/Recomendaciones R3.png
+- Assets/Resources/audioResources/00ING_XX01/camello.mp3
+- Assets/Resources/audioResources/05IN_XX01/05IN_R5En.mp3
+- Assets/Resources/spritesResources/Textures/06IN_XX01/06IN_XX01 Preview.jpg
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Tips/Tooltips R1.png
+- Assets/Resources/audioResources/04IN_XX01/ronda1.mp3
+- Assets/Resources/audioResources/05IN_XX01/05IN_R3Re2.mp3
+- Assets/Resources/audioResources/03IN_XX01/Ronda 2/School.wav
+- Assets/Resources/spritesResources/Textures/07IN_XX01/ronda_cero.PNG
+- Assets/Resources/Minigames/Textures/02IN_XX01/Mesa de trabajo 25.png
+- Assets/Resources/audioResources/InglesBody/knee.wav
+- Assets/Resources/spritesResources/Textures/03IN_XX01/03IN_Boton.png
+- Assets/Resources/Minigames/Textures/02IN_XX01/Ronda 5-6.png
+- Assets/Resources/audioResources/04IN_XX01/carta5.6.mp3
+- Assets/Resources/Minigames/Textures/02IN_XX01/Mesa de trabajo 31.png
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Tips/Tooltips R4.png
+- Assets/Resources/spritesResources/Textures/05IN_XX01/05IN_XX01Contexto.jpg
+- Assets/Resources/spritesResources/Textures/07IN_XX01/ContextoB.jpg
+- Assets/Resources/audioResources/04IN_XX01/ronda2.mp3
+- Assets/Resources/audioResources/03IN_XX01/Ronda 1/Church.wav
+- Assets/Resources/spritesResources/Textures/00ING_XX01/00IN_XX01_Preview.jpg
+- Assets/Resources/audioResources/InglesBody/shoulder.wav
+- Assets/Resources/audioResources/04IN_XX01/carta2.1.mp3
+- Assets/Resources/audioResources/04IN_XX01/carta1.3.mp3
+- Assets/Resources/audioResources/03IN_XX01/Ronda 4/food.wav
+- Assets/Resources/audioResources/04IN_XX01/carta3.2.mp3
+- Assets/Resources/audioResources/03IN_XX01/Ronda 3/Fire.wav
+- Assets/Resources/audioResources/00ING_XX01/conejo.mp3
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Tips/Vocabulario R5.png
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Tips/Vocabulario R1-2.png
+- Assets/Resources/audioResources/03IN_XX01/Ronda 3/Trucks.wav
+- Assets/Resources/audioResources/07IN_XX01/ronda3.mp3
+- Assets/Resources/spritesResources/Textures/05IN_XX01/05IN_texture3.png
+- Assets/Resources/audioResources/07IN_XX01/ronda1.mp3
+- Assets/Resources/spritesResources/Textures/03IN_XX01/03IN_XX01_A.png
+- Assets/Resources/spritesResources/Textures/03IN_XX01/03IN_XX01 background.png
+- Assets/Resources/spritesResources/Textures/03IN_XX01/03IN_XX01_C.png
+- Assets/Resources/audioResources/03IN_XX01/Ronda 2/Doctors.wav
+- Assets/Resources/Minigames/Textures/02IN_XX01/Mesa de trabajo 30.png
+- Assets/Resources/audioResources/05IN_XX01/05IN_R5Re3.mp3
+- Assets/Resources/audioResources/04IN_XX01/carta3.3.mp3
+- Assets/Resources/spritesResources/Textures/03IN_XX01/03IN_R0.png
+- Assets/Resources/audioResources/01IN_XX01/01IN_Re7.mp3
+- Assets/Resources/audioResources/00ING_XX01/rinoceronte.mp3
+- Assets/Resources/audioResources/05IN_XX01/05IN_R5Re5.mp3
+- Assets/Resources/Minigames/Textures/02IN_XX01/Mesa de trabajo 26.png
+- Assets/Resources/audioResources/03IN_XX01/Ronda 2/Hospital.wav
+- Assets/Resources/audioResources/00ING_XX01/oso.mp3
+- Assets/Resources/audioResources/00ING_XX01/pinguinos.mp3
+- Assets/Resources/audioResources/05IN_XX01/05IN_R3Re5.mp3
+- Assets/Resources/audioResources/05IN_XX01/05IN_R5Re2.mp3
+- Assets/Resources/audioResources/00ING_XX01/cocodrilo.mp3
+- Assets/Resources/audioResources/04IN_XX01/carta5.7.mp3
+- Assets/Resources/audioResources/04IN_XX01/carta4.6.mp3
+- Assets/Resources/Minigames/Textures/02IN_XX01/Mesa de trabajo 24.png
+- Assets/Resources/spritesResources/Textures/07IN_XX01/07IN_XX01 contexto.jpg
+- Assets/Resources/audioResources/InglesBody/Hair.wav
+- Assets/Resources/audioResources/01IN_XX01/0IN_R1En.mp3
+- Assets/Resources/audioResources/05IN_XX01/05IN_R1Re2.mp3
+- Assets/Resources/audioResources/05IN_XX01/05IN_R4Re2.mp3
+- Assets/Resources/audioResources/03IN_XX01/Ronda 3/Farm.wav
+- Assets/Resources/spritesResources/Textures/01IN_XX01/01INTextura1.png
+- Assets/Resources/audioResources/04IN_XX01/carta5.3.mp3
+- Assets/Resources/audioResources/03IN_XX01/Ronda 4/jails.wav
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Tips/Recomendaciones R1.png
+- Assets/Resources/audioResources/04IN_XX01/carta2.3.mp3
+- Assets/Resources/audioResources/05IN_XX01/05IN_R4Re1.mp3
+- Assets/Resources/audioResources/03IN_XX01/Ronda 4/Workers.wav
+- Assets/Resources/audioResources/04IN_XX01/carta4.4.mp3
+- Assets/Resources/audioResources/05IN_XX01/05IN_R3En.mp3
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Elementos Rondas 1.png
+- Assets/Resources/audioResources/05IN_XX01/05IN_R3Re4.mp3
+- Assets/Resources/audioResources/03IN_XX01/Ronda 4/Market.wav
+- Assets/Resources/audioResources/04IN_XX01/carta3.4.mp3
+- Assets/Resources/spritesResources/Textures/04IN_XX01/04IN_XX01_contexto.png
+- Assets/Resources/spritesResources/Textures/06IN_XX01/06IN_XX01 contexto.jpg
+- Assets/Resources/audioResources/InglesBody/Arm.wav
+- Assets/Resources/audioResources/InglesBody/Foot.wav
+- "Assets/Resources/spritesResources/Textures/06IN_XX01/Tips/Tooltips Intrucci\xF3n.png"
+- Assets/Resources/audioResources/00ING_XX01/colibri.mp3
+- Assets/Resources/audioResources/04IN_XX01/carta1.1.mp3
+- Assets/Resources/audioResources/04IN_XX01/carta1.4.mp3
+- Assets/Resources/audioResources/01IN_XX01/01IN_Re2.mp3
+- Assets/Resources/spritesResources/Textures/00ING_XX01/ronda_cero_preview.PNG
+- Assets/Resources/spritesResources/Textures/04IN_XX01/04IN_XX01_A.png
+- Assets/Resources/spritesResources/Textures/04IN_XX01/04IN_XX01Preview.jpg
+- Assets/Resources/spritesResources/Textures/01IN_XX01/01INTextura2.png
+- Assets/Resources/audioResources/00ING_XX01/tiburon.mp3
+- Assets/Resources/audioResources/03IN_XX01/Ronda 4/Mayor.wav
+- Assets/Resources/Minigames/Textures/02IN_XX01/textura 1.png
+- Assets/Resources/Minigames/Textures/02IN_XX01/Textura 4.png
+- Assets/Resources/audioResources/InglesBody/nail.wav
+- Assets/Resources/audioResources/04IN_XX01/carta5.5.mp3
+- Assets/Resources/audioResources/01IN_XX01/01IN_Re8.mp3
+- Assets/Resources/audioResources/04IN_XX01/carta2.2.mp3
+- Assets/Resources/audioResources/05IN_XX01/05IN_R3Re6.mp3
+- Assets/Resources/spritesResources/Textures/01IN_XX01/01IN_XX01Background.jpg
+- Assets/Resources/audioResources/04IN_XX01/carta2.4.mp3
+- Assets/Resources/audioResources/03IN_XX01/Ronda 2/Farm.wav
+- Assets/Resources/audioResources/05IN_XX01/05IN_R4Re6.mp3
+- Assets/Resources/Minigames/Textures/02IN_XX01/Texturas R3.png
+- Assets/Resources/audioResources/04IN_XX01/carta5.4.mp3
+- Assets/Resources/audioResources/00ING_XX01/aguila.mp3
+- Assets/Resources/audioResources/05IN_XX01/05IN_R3Re3.mp3
+- Assets/Resources/spritesResources/Textures/04IN_XX01/ronda_cero_preview2.PNG
+- Assets/Resources/spritesResources/Textures/07IN_XX01/07IN_XX01_A 1.png
+- Assets/Resources/spritesResources/Textures/03IN_XX01/03IN_XX01_E.png
+- Assets/Resources/spritesResources/Textures/05IN_XX01/05IN_XX01Background.jpg
+- Assets/Resources/audioResources/InglesBody/Eyes.wav
+- Assets/Resources/Minigames/Textures/02IN_XX01/Mesa de trabajo 22.png
+- Assets/Resources/audioResources/05IN_XX01/05IN_R4Re5.mp3
+- Assets/Resources/audioResources/05IN_XX01/05IN_R4En.mp3
+- Assets/Resources/audioResources/05IN_XX01/05IN_R1Re3.mp3
+- Assets/Resources/Minigames/Textures/02IN_XX01/Mesa de trabajo 29.png
+- Assets/Resources/Minigames/Textures/02IN_XX01/Ronda 3-4.png
+- Assets/Resources/spritesResources/Textures/04IN_XX01/04IN_XX01_B.png
+- Assets/Resources/audioResources/00ING_XX01/foca.mp3
+- Assets/Resources/audioResources/05IN_XX01/05IN_R3Re1.mp3
+- Assets/Resources/spritesResources/Textures/00ING_XX01/Mesa de trabajo 2.png
+- Assets/Resources/spritesResources/Textures/07IN_XX01/07IN_XX01_01.png
+- Assets/Resources/audioResources/03IN_XX01/Ronda 3/Fisher.wav
+- Assets/Resources/audioResources/InglesBody/Ear.wav
+- Assets/Resources/audioResources/05IN_XX01/05IN_R4Re4.mp3
+- Assets/Resources/audioResources/01IN_XX01/01IN_Re9.mp3
+- Assets/Resources/audioResources/InglesBody/Hand.wav
+- Assets/Resources/audioResources/InglesBody/Nose.wav
+- Assets/Resources/audioResources/00ING_XX01/cuy.mp3
+- Assets/Resources/spritesResources/Textures/03IN_XX01/03IN_XX01 contexto.png
+- Assets/Resources/spritesResources/Textures/03IN_XX01/03IN_XX01 preview.png
+- Assets/Resources/audioResources/00ING_XX01/tortuga.mp3
+- Assets/Resources/audioResources/05IN_XX01/05IN_R1En.mp3
+- Assets/Resources/audioResources/InglesBody/Elbow.wav
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Elementos Rondas 2.png
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Tips/Tooltips R3.png
+- Assets/Resources/Minigames/Textures/02IN_XX01/Ronda 1-2.png
+- Assets/Resources/audioResources/01IN_XX01/01IN_R2En.mp3
+- Assets/Resources/audioResources/03IN_XX01/Ronda 3/Factory.wav
+- Assets/Resources/audioResources/04IN_XX01/ronda5.mp3
+- Assets/Resources/audioResources/00ING_XX01/elefante.mp3
+- Assets/Resources/audioResources/03IN_XX01/Ronda 1/Priest.wav
+- Assets/Resources/spritesResources/Textures/00ING_XX01/00IN_XX01_background.jpg
+- Assets/Resources/spritesResources/Textures/06IN_XX01/Tips/Recomendaciones R2.png
+Dependencies: []

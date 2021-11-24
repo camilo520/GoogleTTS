@@ -1,0 +1,98 @@
+ManifestFileVersion: 0
+CRC: 3974286932
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53ff26300d287ea0e8195feac4346ce3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ddeeb3cb0b42c9a8df67181163a6a32b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/spritesResources/Textures/07CN_XX01/07CN_XX01@Tooltip8.png
+- Assets/Resources/spritesResources/Textures/03CN_XX01/03CN_XX01_Preview.jpg
+- Assets/Resources/spritesResources/Textures/07CN_XX01/07CN_XX01@Tooltip3.png
+- Assets/Resources/spritesResources/Textures/02CN_XX01/02CN_XX01-v2-06.png
+- Assets/Resources/spritesResources/Textures/07CN_XX01/07CN_XX01@Texture4.png
+- Assets/Resources/spritesResources/Textures/03CN_XX01/Mesa_de_trabajo_2.png
+- Assets/Resources/spritesResources/Textures/07CN_XX01/07CN_XX01@Tooltip5.png
+- Assets/Resources/spritesResources/Textures/02CN_XX01/02CN_XX01 contexto.jpg
+- Assets/Resources/spritesResources/Textures/06CN_XX01/texture 1.png
+- Assets/Resources/spritesResources/Textures/00CN_XX01/Mesa de trabajo 90102.png
+- Assets/Resources/spritesResources/Textures/02CN_XX01/TEXTURAS PISTAS-08.png
+- Assets/Resources/spritesResources/Textures/02CN_XX01/02CN_XX01.jpg
+- Assets/Resources/spritesResources/Textures/04CN_XX01/04_CNXX01Background.jpg
+- Assets/Resources/spritesResources/Textures/01CN_XX01/pictogramas01CN.png
+- Assets/Resources/spritesResources/Textures/06CN_XX01/06CN_XX01 Background.jpg
+- Assets/Resources/spritesResources/Textures/00CN_XX01/ronda_cero_preview.PNG
+- Assets/Resources/spritesResources/Textures/02CN_XX01/02CN_XX01-08.png
+- Assets/Resources/spritesResources/Textures/07CN_XX01/07CN_XX01@Texture.png
+- Assets/Resources/spritesResources/Textures/02CN_XX01/02CN_XX01-06.png
+- Assets/Resources/spritesResources/Textures/00CN_XX01/Tooltip_contexto.png
+- Assets/Resources/audioResources/03CN_XX01/zampona.mp3
+- Assets/Resources/spritesResources/Textures/06CN_XX01/06CN_XX01 contexto.jpg
+- Assets/Resources/spritesResources/Textures/07CN_XX01/07CN_XX01@Tooltip6.png
+- Assets/Resources/spritesResources/Textures/02CN_XX01/02CN_XX01_Mesa de trabajo
+  1.jpg
+- Assets/Resources/spritesResources/Textures/07CN_XX01/07CN_XX01@Preview.PNG
+- Assets/Resources/spritesResources/Textures/00CN_XX01/00CN_XX01_contexto.jpg
+- Assets/Resources/spritesResources/Textures/07CN_XX01/07CN_XX01@Tooltip2.png
+- Assets/Resources/spritesResources/Textures/03CN_XX01/Mesa_de_trabajo_1.png
+- Assets/Resources/audioResources/03CN_XX01/charango.mp3
+- Assets/Resources/spritesResources/Textures/07CN_XX01/07CN_XX01@Background.jpg
+- Assets/Resources/spritesResources/Textures/01CN_XX01/01CN_XX01Contexto.jpg
+- Assets/Resources/spritesResources/Textures/07CN_XX01/07CN_XX01@Tooltip1.png
+- Assets/Resources/spritesResources/Textures/06CN_XX01/06CN_XX01 Preview.jpg
+- Assets/Resources/spritesResources/Textures/03CN_XX01/ronda_cero_preview.PNG
+- Assets/Resources/spritesResources/Textures/01CN_XX01/01CN_XX01 background.jpg
+- Assets/Resources/spritesResources/Textures/06CN_XX01/06CN_R0.png
+- Assets/Resources/spritesResources/Textures/05CN_XX01/05CN_XX01 contexto.jpg
+- Assets/Resources/spritesResources/Textures/05CN_XX01/Ronda0.png
+- Assets/Resources/spritesResources/Textures/01CN_XX01/01CNRonda0.png
+- Assets/Resources/audioResources/03CN_XX01/quena.mp3
+- Assets/Resources/spritesResources/Textures/05CN_XX01/05CN_XX01 background.jpg
+- Assets/Resources/spritesResources/Textures/07CN_XX01/07CN_XX01@Texture2.png
+- Assets/Resources/spritesResources/Textures/06CN_XX01/texture 2.png
+- Assets/Resources/spritesResources/Textures/05CN_XX01/Texture 1V3.png
+- Assets/Resources/spritesResources/Textures/01CN_XX01/01CN_XX01Textura.png
+- Assets/Resources/spritesResources/Textures/02CN_XX01/Mesa de trabajo 70102.png
+- Assets/Resources/spritesResources/Textures/00CN_XX01/00CN_XX01_background.jpg
+- Assets/Resources/spritesResources/Textures/07CN_XX01/07CN_XX01@Contexto.jpg
+- Assets/Resources/spritesResources/Textures/05CN_XX01/Texture1V2.png
+- Assets/Resources/spritesResources/Textures/07CN_XX01/07CN_XX01@Tooltip4.png
+- Assets/Resources/spritesResources/Textures/05CN_XX01/Texture 3.png
+- Assets/Resources/spritesResources/Textures/05CN_XX01/TooltipsV2.png
+- Assets/Resources/spritesResources/Textures/07CN_XX01/07CN_XX01@Texture5.png
+- Assets/Resources/spritesResources/Textures/07CN_XX01/07CN_XX01@Tooltip7.png
+- Assets/Resources/spritesResources/Textures/04CN_XX01/04CNtexture_2.png
+- Assets/Resources/spritesResources/Textures/04CN_XX01/04CNtexture_3.png
+- Assets/Resources/spritesResources/Textures/01CN_XX01/01CN_XX01@Textura2.png
+- Assets/Resources/spritesResources/Textures/02CN_XX01/Texturas R3_0.asset
+- Assets/Resources/spritesResources/Textures/00CN_XX01/Mesa de trabajo 70103.png
+- Assets/Resources/audioResources/03CN_XX01/bomboAndino.mp3
+- Assets/Resources/spritesResources/Textures/02CN_XX01/TEXTURA 1-06.png
+- Assets/Resources/spritesResources/Textures/01CN_XX01/01CN_XX1Contexto.png
+- Assets/Resources/spritesResources/Textures/01CN_XX01/01CN_XX01 Preview.jpg
+- Assets/Resources/spritesResources/Textures/04CN_XX01/04CN_XX01Contexto.jpg
+- Assets/Resources/spritesResources/Textures/00CN_XX01/00CN_XX01_Preview.jpg
+- Assets/Resources/spritesResources/Textures/07CN_XX01/07CN_XX01@Texture3.png
+- Assets/Resources/spritesResources/Textures/03CN_XX01/03CN_XX01_Backgound.jpg
+- Assets/Resources/spritesResources/Textures/05CN_XX01/Texture 1.png
+- Assets/Resources/spritesResources/Textures/02CN_XX01/02CN_XX01-07.png
+- Assets/Resources/spritesResources/Textures/05CN_XX01/Texture 2.png
+- Assets/Resources/spritesResources/Textures/03CN_XX01/03CN_XX01_contexto.jpg
+- Assets/Resources/spritesResources/Textures/02CN_XX01/TOOLTIP CONTEXTO-07.png
+- Assets/Resources/spritesResources/Textures/07CN_XX01/Tooltip@Contexto.png
+- Assets/Resources/spritesResources/Textures/04CN_XX01/04CNtexture_1.png
+- Assets/Resources/spritesResources/Textures/02CN_XX01/02CN_XX01 Ronda0.PNG
+- Assets/Resources/audioResources/03CN_XX01/chajchas.mp3
+Dependencies:
+- D:/Talentum/Repositories/InclusionNarino/AssetBundles/WebGL/ingles.asset

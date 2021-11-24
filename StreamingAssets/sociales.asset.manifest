@@ -1,0 +1,111 @@
+ManifestFileVersion: 0
+CRC: 769296460
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 495fdb63f7b63b53927d21daa7e465d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/spritesResources/Textures/09CS_XX01/09CSTextura1.png
+- Assets/Resources/spritesResources/Textures/00CS_XX01/00CS_XX01 background.jpg
+- Assets/Resources/spritesResources/Textures/08CS_XX01/TEXTURA-02-07.png
+- Assets/Resources/spritesResources/Textures/04CS_XX01/Mesa de trabajo 60103.png
+- Assets/Resources/spritesResources/Textures/08CS_XX01/Tooltips2.png
+- Assets/Resources/spritesResources/Textures/08CS_XX01/TEXTURA-02.png
+- Assets/Resources/spritesResources/Textures/03CS_XX01/03CS_XX01@Background.png
+- Assets/Resources/spritesResources/Textures/03CS_XX01/03CS_XX01@Preview.PNG
+- Assets/Resources/spritesResources/Textures/08CS_XX01/Tooltip 1-10-09.png
+- Assets/Resources/spritesResources/Textures/04CS_XX01/04CS_R0.png
+- Assets/Resources/spritesResources/Textures/04CS_XX01/Mesa de trabajo 90102.png
+- Assets/Resources/Minigames/Textures/02CS_XX01/02CS_XX01-09.png
+- Assets/Resources/spritesResources/Textures/06CS_XX01/06CS_XX01 background.png
+- Assets/Resources/spritesResources/Textures/04CS_XX01/04CS_XX01 background.png
+- Assets/Resources/spritesResources/Textures/05CS_XX01/botones.png
+- Assets/Resources/Minigames/Textures/02CS_XX01/02CS_XX01 background.jpg
+- Assets/Resources/spritesResources/Textures/09CS_XX01/09CSTextura4.png
+- Assets/Resources/spritesResources/Textures/09CS_XX01/09CSRonda0.png
+- Assets/Resources/spritesResources/Textures/01CS_XX01/01CS_XX01Ronda0.png
+- Assets/Resources/spritesResources/Textures/03CS_XX01/03CS_XX01@Texture.png
+- Assets/Resources/spritesResources/Textures/08CS_XX01/TEXTURA-03.png
+- Assets/Resources/spritesResources/Textures/09CS_XX01/09CSTextura3.png
+- Assets/Resources/spritesResources/Textures/06CS_XX01/momento2.PNG
+- Assets/Resources/spritesResources/Textures/06CS_XX01/texture 1.png
+- Assets/Resources/spritesResources/Textures/04CS_XX01/Mesa de trabajo 10102.png
+- Assets/Resources/spritesResources/Textures/04CS_XX01/Mesa de trabajo 110102.png
+- Assets/Resources/Minigames/Textures/02CS_XX01/Texturas 2.png
+- Assets/Resources/spritesResources/Textures/00CS_XX01/00CS_XX01 Preview.jpg
+- Assets/Resources/spritesResources/Textures/05CS_XX01/Texture tooltip.png
+- Assets/Resources/spritesResources/Textures/04CS_XX01/Textura contexto tooltip.png
+- Assets/Resources/spritesResources/Textures/05CS_XX01/05CS_XX01_contexto.png
+- Assets/Resources/spritesResources/Textures/06CS_XX01/momento1.PNG
+- Assets/Resources/spritesResources/Textures/05CS_XX01/05CS_XX01_background.png
+- Assets/Resources/spritesResources/Textures/05CS_XX01/tooltips.png
+- Assets/Resources/spritesResources/Textures/06CS_XX01/texture 2.png
+- Assets/Resources/spritesResources/Textures/08CS_XX01/botones nuevos.png
+- Assets/Resources/spritesResources/Textures/08CS_XX01/TEXTURA-02-07 1.png
+- Assets/Resources/spritesResources/Textures/07CS_XX01/07CS_XX01Background.png
+- Assets/Resources/Minigames/Textures/02CS_XX01/02CS_XX01-08_4.asset
+- Assets/Resources/spritesResources/Textures/07CS_XX01/07CS_XX01_A.png
+- Assets/Resources/spritesResources/Textures/08CS_XX01/Tooltip 1.png
+- Assets/Resources/Minigames/Textures/02CS_XX01/Texturas 1.png
+- Assets/Resources/spritesResources/Textures/03CS_XX01/03CS_XX01@Texture3.png
+- Assets/Resources/spritesResources/Textures/04CS_XX01/Mesa de trabajo 100102.png
+- Assets/Resources/spritesResources/Textures/10CS_XX01/Ronda0-10CS_XX01.png
+- Assets/Resources/spritesResources/Textures/00CS_XX01/Mesa de trabajo 70102.png
+- Assets/Resources/spritesResources/Textures/07CS_XX01/07CSRonda0.png
+- Assets/Resources/spritesResources/Textures/08CS_XX01/Contexto tooltip.png
+- Assets/Resources/spritesResources/Textures/08CS_XX01/Ronda0-08CS_XX01.png
+- Assets/Resources/spritesResources/Textures/08CS_XX01/Tooltips-10.png
+- Assets/Resources/spritesResources/Textures/05CS_XX01/Mesa de trabajo 60102.png
+- Assets/Resources/spritesResources/Textures/00CS_XX01/00CS_R0.png
+- Assets/Resources/spritesResources/Textures/08CS_XX01/08CS_XX01 background.png
+- Assets/Resources/spritesResources/Textures/07CS_XX01/07CS_XX01Contexto.png
+- Assets/Resources/spritesResources/Textures/10CS_XX01/9.png
+- Assets/Resources/spritesResources/Textures/04CS_XX01/04CS_XX01 contexto.png
+- Assets/Resources/spritesResources/Textures/05CS_XX01/ronda_cero.PNG
+- Assets/Resources/spritesResources/Textures/09CS_XX01/09CS_XX01 Background.jpg
+- Assets/Resources/spritesResources/Textures/01CS_XX01/0CS_XX01Contexto.png
+- Assets/Resources/spritesResources/Textures/03CS_XX01/03CS_XX01@Texture2.png
+- Assets/Resources/spritesResources/Textures/07CS_XX01/0207CS_XX01_A.png
+- Assets/Resources/spritesResources/Textures/08CS_XX01/TEXTURA-01.png
+- Assets/Resources/spritesResources/Textures/03CS_XX01/03CS_XX01@Texture1.png
+- Assets/Resources/spritesResources/Textures/05CS_XX01/05CS_XX01_preview.png
+- Assets/Resources/spritesResources/Textures/10CS_XX01/7.png
+- Assets/Resources/spritesResources/Textures/10CS_XX01/10CS_XX01 background.jpg
+- Assets/Resources/spritesResources/Textures/00CS_XX01/00CS_XX01 contexto.jpg
+- Assets/Resources/spritesResources/Textures/03CS_XX01/03CS_XX01@Contexto.png
+- Assets/Resources/Minigames/Textures/02CS_XX01/Texturas 3.png
+- Assets/Resources/spritesResources/Textures/06CS_XX01/06CS_XX01 contexto.png
+- Assets/Resources/spritesResources/Textures/03CS_XX01/03CS_XX01@TextureTooltip.png
+- Assets/Resources/spritesResources/Textures/10CS_XX01/1_6.png
+- Assets/Resources/spritesResources/Textures/04CS_XX01/04CS_XX01 preview.png
+- Assets/Resources/spritesResources/Textures/01CS_XX01/01CS_XX01_Tooltips.png
+- Assets/Resources/spritesResources/Textures/10CS_XX01/botones nuevos.png
+- Assets/Resources/Minigames/Textures/02CS_XX01/02CS_XX01-08.png
+- Assets/Resources/spritesResources/Textures/10CS_XX01/8_1.png
+- Assets/Resources/spritesResources/Textures/09CS_XX01/09CSTextura2.png
+- Assets/Resources/spritesResources/Textures/08CS_XX01/NewButtons.png
+- Assets/Resources/spritesResources/Textures/00CS_XX01/Mesa de trabajo 60102.png
+- Assets/Resources/spritesResources/Textures/07CS_XX01/07CS_XX01.png
+- Assets/Resources/spritesResources/Textures/08CS_XX01/Tooltips-09.png
+- Assets/Resources/spritesResources/Textures/01CS_XX01/01CS_XX01_01.png
+- Assets/Resources/spritesResources/Textures/06CS_XX01/texture 4.png
+- Assets/Resources/spritesResources/Textures/08CS_XX01/08CS_XX01 contexto.png
+- Assets/Resources/spritesResources/Textures/00CS_XX01/Tooltip contexto.png
+- Assets/Resources/spritesResources/Textures/01CS_XX01/01CStextura.png
+- Assets/Resources/spritesResources/Textures/05CS_XX01/Mesa de trabajo 70102.png
+- Assets/Resources/spritesResources/Textures/10CS_XX01/10CS_XX01  contexto.jpg
+- Assets/Resources/spritesResources/Textures/06CS_XX01/texture 3.png
+- Assets/Resources/spritesResources/Textures/09CS_XX01/09CS_XX01 Contexto.jpg
+- Assets/Resources/spritesResources/Textures/06CS_XX01/06CS_XX01 preview.png
+Dependencies:
+- D:/Talentum/Repositories/InclusionNarino/AssetBundles/WebGL/naturales.asset

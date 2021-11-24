@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 421430204
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62b1ea4cf1d3ff4c59dca29c1802dcff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Avatar/Textures/Avatar@grownFemaleAuditiva.png
+- Assets/Resources/Avatar/Textures/Avatar@childFemaleMotora.png
+- Assets/Resources/Avatar/Textures/Avatar@childFemaleSindrome.png
+- Assets/Resources/Avatar/Textures/Avatar@childFemaleVisual.png
+- Assets/Resources/Avatar/Textures/Avatar@grownMaleMotora.png
+- Assets/Resources/Avatar/Textures/Avatar@childMaleMotora.png
+- Assets/Resources/Avatar/Textures/Avatar@childMaleCeguera.png
+- Assets/Resources/Avatar/Textures/Avatar@childMaleCognitiva.png
+- Assets/Resources/Avatar/Textures/Avatar@childFemaleNinguna.png
+- Assets/Resources/Avatar/Textures/Avatar@childFemaleAuditiva.png
+- Assets/Resources/Avatar/Textures/Avatar@grownMaleAuditiva.png
+- Assets/Resources/Avatar/Textures/Avatar@childMaleNinguna.png
+- Assets/Resources/Avatar/Textures/Avatar@childMaleAuditiva.png
+- Assets/Resources/Avatar/Textures/Avatar@grownMaleVisual.png
+- Assets/Resources/Avatar/Textures/Avatar@grownFemaleCognitiva.png
+- Assets/Resources/Avatar/Textures/Avatar@grownFemaleSindrome.png
+- Assets/Resources/Avatar/Textures/Avatar@grownFemaleAutismo.png
+- Assets/Resources/Avatar/Textures/Avatar@grownMaleCognitiva.png
+- Assets/Resources/Avatar/Textures/Avatar@childMaleSindrome.png
+- Assets/Resources/Avatar/Textures/Avatar@childFemaleCeguera.png
+- Assets/Resources/Avatar/Textures/Avatar@grownMaleCeguera.png
+- Assets/Resources/Avatar/Textures/Avatar@grownMaleNinguna.png
+- Assets/Resources/Avatar/Textures/Avatar@grownMaleSindrome.png
+- Assets/Resources/Avatar/Textures/Avatar@grownFemaleCeguera.png
+- Assets/Resources/Avatar/Textures/Avatar@childMaleAutismo.png
+- Assets/Resources/Avatar/Textures/Avatar@grownFemaleVisual.png
+- Assets/Resources/Avatar/Textures/Avatar@childFemaleAutismo.png
+- Assets/Resources/Avatar/Textures/Avatar@grownFemaleMotora.png
+- Assets/Resources/Avatar/Textures/Avatar@grownFemaleNinguna.png
+- Assets/Resources/Avatar/Textures/Avatar@childFemaleCognitiva.png
+- Assets/Resources/Avatar/Textures/Avatar@childMaleVisual.png
+- Assets/Resources/Avatar/Textures/Avatar@grownMaleAutismo.png
+Dependencies: []
